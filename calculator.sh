@@ -4,4 +4,6 @@
 
 X=A+B
 
+###Subtraction
 
+X=A-B
