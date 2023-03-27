@@ -13,3 +13,6 @@ X=A-B
 X=A*B
 
 
+
+##Division
+X=A%B
